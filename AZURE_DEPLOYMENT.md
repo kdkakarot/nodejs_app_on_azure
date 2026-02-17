@@ -955,3 +955,5 @@ Container Apps scales to zero when not in use, making it ideal for variable work
 4. Set up backup strategy for critical PDFs
 5. Configure custom domain (optional)
 6. Enable Azure Cost Management alerts to track spending
+
+
